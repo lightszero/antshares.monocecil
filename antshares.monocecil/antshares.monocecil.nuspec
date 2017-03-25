@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>antshares.monocecil</id>
+    <version>1.0.0</version>
+    <authors>lights</authors>
+    <owners>lights</owners>
+    <licenseUrl>https://github.com/lightszero/antshares.monocecil</licenseUrl>
+    <projectUrl>https://github.com/lightszero/antshares.monocecil</projectUrl>
+    <iconUrl>https://github.com/lightszero/antshares.monocecil</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>monocecil for antshares.</description>
+    <releaseNotes>good day.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
